@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "bitter-water-3482",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b0350484-9709-420b-b781-33768b50621b",
+      "database_name": "fancy-butterfly-7450-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
